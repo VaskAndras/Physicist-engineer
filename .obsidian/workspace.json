@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "18f751ae7b090fe2",
+        "id": "7107b37155da7f67",
         "type": "tabs",
         "children": [
           {
-            "id": "0db47b93737e2670",
+            "id": "c161efc9493381c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 Derivates of a function.md",
+                "file": "3.2 Mean value theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Derivates of a function"
+              "title": "3.2 Mean value theorem"
+            }
+          },
+          {
+            "id": "709d26d5bf389676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Files/calc/3.1 Maximum and minimum values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 Maximum and minimum values"
+            }
+          },
+          {
+            "id": "1c659a3c4f88663e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Files/calc/1.8 Continuity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.8 Continuity"
             }
           }
         ]
@@ -78,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64f0cf583a675ac3",
@@ -178,13 +207,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0db47b93737e2670",
+  "active": "c161efc9493381c9",
   "lastOpenFiles": [
-    "2.3 Differentiation formulas.md",
+    "Pasted image 20251113152945.png",
+    "Pasted image 20251113152925.png",
+    "Pasted image 20251113151634.png",
+    "3. Files/calc/2.6 Implicit Differentiation.md",
+    "3.2 Mean value theorem.md",
+    "3. Files/calc/1.8 Continuity.md",
+    "3. Files/calc/3.1 Maximum and minimum values.md",
+    "1. HOME/calculus.md",
+    "Untitled.md",
+    "Fermatt theorem.md",
+    "3. Files/calc/2.9 Linear Approximations and Differentials.md",
+    "3. Files/calc/2.8 Related rates.md",
+    "3. Files/calc/2.7 Rates of Change in the Natural and Social Sciences.md",
+    "3. Files/calc/2.5 The chain rule.md",
+    "3. Files/calc/2.4 Derivates of trigonometric functions.md",
+    "Vaskó András - Specification for the Huffman compression.md",
+    "Pasted image 20251113145940.png",
+    "HK motlev.md",
+    "LINALG TEST.md",
+    "3. Files/Linalg/3.4 Independence, Basis, and Dimension.md",
+    "3. Files/Linalg/3.5 Dimensions of the four subspaces.md",
+    "3. Files/Linalg/4.1 Orhagonality of the For subspaces.md",
+    "Pasted image 20251030000433.png",
+    "3. Files/English/Angol - Assignment 5 - ARGUMENTATION TRAINING (BigThink video analysis).md",
+    "3. Files/English/Angol - Assignment 4 – Mini Research on Learning Strategies.md",
+    "3. Files/English/Angol - Assignment 3 - japan vs hungary.md",
+    "1. HOME/Linalg.md",
     "1. HOME/Physics problem solving tutorial.md",
-    "2.1 Derivates and rate of change.md",
-    "2.5 The chain rule.md",
-    "1. HOME/MCC.md",
-    "1. HOME/0. README.md"
+    "Untitled 1.md",
+    "hw1.md",
+    "3. Files/English",
+    "3. Files/untitled folder",
+    "4. Images/Pasted image 20251028154505.png",
+    "4. Images/Pasted image 20251028154443.png",
+    "4. Images/Pasted image 20251028154430.png",
+    "4. Images/Pasted image 20251028153738.png",
+    "4. Images/Pasted image 20251028153152.png",
+    "4. Images/Pasted image 20251028153138.png"
   ]
 }

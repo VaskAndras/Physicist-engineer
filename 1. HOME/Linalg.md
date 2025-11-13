@@ -17,5 +17,6 @@
 [[3.1 Spaces of Vectors]]
 [[3.2The Nullspace of A Solving Ax = 0 and Rx = 0]]
 [[3.3 The Complete Solution to Ax = b]]
+[[3.4 Independence, Basis, and Dimension]]
 
 

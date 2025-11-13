@@ -13,4 +13,11 @@ Differenciation
 [[2.3 Differentiation formulas]]
 [[2.4 Derivates of trigonometric functions]]
 [[2.5 The chain rule]]
+[[2.6 Implicit Differentiation]]
+[[2.7 Rates of Change in the Natural and Social Sciences]]
+[[2.8 Related rates]]
+[[2.9 Linear Approximations and Differentials]]
+
+Applications of differentiation
+[[3.1 Maximum and minimum values]]
 
